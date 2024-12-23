@@ -2,5 +2,3 @@ streamlit
 python-chess
 pillow
 requests
-cairosvg
-pycairo
